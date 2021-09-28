@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\AuthorizationAPI\\AuthorizationAPI.csproj": {}
+    "C:\\Users\\sbpma\\Desktop\\AuthorizationMicroservice\\AuthorizationAPI\\AuthorizationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\AuthorizationAPI\\AuthorizationAPI.csproj": {
+    "C:\\Users\\sbpma\\Desktop\\AuthorizationMicroservice\\AuthorizationAPI\\AuthorizationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\AuthorizationAPI\\AuthorizationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\sbpma\\Desktop\\AuthorizationMicroservice\\AuthorizationAPI\\AuthorizationAPI.csproj",
         "projectName": "AuthorizationAPI",
-        "projectPath": "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\AuthorizationAPI\\AuthorizationAPI.csproj",
+        "projectPath": "C:\\Users\\sbpma\\Desktop\\AuthorizationMicroservice\\AuthorizationAPI\\AuthorizationAPI.csproj",
         "packagesPath": "C:\\Users\\sbpma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sbpma\\Desktop\\ProjectDeployPreparation\\AuthorizationAPI\\obj\\",
+        "outputPath": "C:\\Users\\sbpma\\Desktop\\AuthorizationMicroservice\\AuthorizationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.12.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.14, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
